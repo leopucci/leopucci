@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pucci</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A FullStack Developer!</h3>
+<h3 align="center">Succes is the sum of small efforts – repeated day in and day out.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leopucci&label=Profile%20views&color=0e75b6&style=flat" alt="leopucci" /> </p>
 
